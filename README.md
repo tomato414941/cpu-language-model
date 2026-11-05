@@ -1,4 +1,4 @@
-# language-model-cpu
+# cpu-language-model
 
 Train language models with CPUs alone. The aim is to learn how far CPU-only training can go, and to look for methods that let it compete with GPU training.
 
